@@ -1,1 +1,2 @@
 # speaker_emotion_recognition
+Project for “Speaker Emotion Recognition” of conversations which involved speaker diarization of the conversation audio file for speaker separation and prediction the emotion for each speaker. MFCCs (Mel Frequency Cepstral Coefficients) were used as features for emotion recognition model. A weighted classifier consisting of an LSTM (Long Short-Term Memory) Neural Network and 1D CNN (One Dimensional Convolutional Neural Network) was used for emotion recognition.
